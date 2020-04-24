@@ -1,5 +1,7 @@
 
-###############GRID TASK FOR WISHFUL THINKING DRIFT DIFFUSION MODELING (shortened ver with 20 trials)#######################
+###############GRID TASK FOR WISHFUL THINKING DRIFT DIFFUSION MODELING (shortened ver with 80 trials)#######################
+
+###Imporatant!!! change the directory (dir) to the folder containing current script file and the log file before you run the task
 
 ######Import packages 
 from __future__ import division
